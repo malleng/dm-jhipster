@@ -1,0 +1,27 @@
+{
+  "coopcycleApp": {
+    "cooperative": {
+      "home": {
+        "title": "Cooperatives",
+        "refreshListLabel": "Обновить список",
+        "createLabel": "Создать новый Cooperative",
+        "createOrEditLabel": "Создать или отредактировать Cooperative",
+        "notFound": "Cooperatives не найдено"
+      },
+      "created": "Новый Cooperative создан с идентификатором {{ param }}",
+      "updated": "Cooperative обновлен с идентификатором {{ param }}",
+      "deleted": "Cooperative удален с идентификатором {{ param }}",
+      "delete": {
+        "question": "Вы уверены что хотите удалить Cooperative {{ id }}?"
+      },
+      "detail": {
+        "title": "Cooperative"
+      },
+      "id": "ID",
+      "cooperativeId": "Cooperative Id",
+      "name": "Name",
+      "area": "Area",
+      "restaurant": "Restaurant"
+    }
+  }
+}

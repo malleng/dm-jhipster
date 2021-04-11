@@ -1,0 +1,28 @@
+{
+  "coopcycleApp": {
+    "product": {
+      "home": {
+        "title": "Products",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Създайте нов Product",
+        "createOrEditLabel": "Създайте или редактирайте Product",
+        "notFound": "Products не са намерени"
+      },
+      "created": "Създаден е нов Product с идентификатор {{ param }}",
+      "updated": "Product с идентификатор {{ param }} e oбновен",
+      "deleted": "Product с идентификатор {{ param }} е изтрит",
+      "delete": {
+        "question": "Наистина ли искате да изтриете Product {{ id }}?"
+      },
+      "detail": {
+        "title": "Product"
+      },
+      "id": "ID",
+      "price": "Price",
+      "disponibility": "Disponibility",
+      "description": "Description",
+      "basket": "Basket",
+      "restaurant": "Restaurant"
+    }
+  }
+}

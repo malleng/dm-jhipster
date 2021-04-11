@@ -1,0 +1,24 @@
+{
+  "coopcycleApp": {
+    "payment": {
+      "home": {
+        "title": "Payments",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "创建新 Payment",
+        "createOrEditLabel": "创建或编辑 Payment",
+        "notFound": "No Payments found"
+      },
+      "created": "Payment {{ param }} 创建成功",
+      "updated": "Payment {{ param }} 更新成功",
+      "deleted": "Payment {{ param }} 删除成功",
+      "delete": {
+        "question": "你确定要删除 Payment {{ id }} 吗？"
+      },
+      "detail": {
+        "title": "Payment"
+      },
+      "id": "ID",
+      "paymentMethod": "Payment Method"
+    }
+  }
+}

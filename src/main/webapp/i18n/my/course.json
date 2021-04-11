@@ -1,0 +1,27 @@
+{
+  "coopcycleApp": {
+    "course": {
+      "home": {
+        "title": "Courses",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Course အသစ်ထည့်မည်",
+        "createOrEditLabel": "Course အသစ်ထည့်ခြင်း (သို့) ပြုပြင်ခြင်း",
+        "notFound": "No Courses found"
+      },
+      "created": "{{ param }} အိုင်ဒီဖြင့် Course အသစ်တစ်ခုအား ထည့်ပြီးပါပြီ။",
+      "updated": "{{ param }} အိုင်ဒီဖြင့် Course တစ်ခုအား ပြုပြင်ပြီးပါပြီ။",
+      "deleted": "{{ param }} အိုင်ဒီဖြင့် Course တစ်ခုအား ဖျက်ပြီးပါပြီ။",
+      "delete": {
+        "question": "Course {{ id }} အား ဖျက်ပါမည်။ သေချာပါသလား?"
+      },
+      "detail": {
+        "title": "Course"
+      },
+      "id": "ID",
+      "state": "State",
+      "deliveryTime": "Delivery Time",
+      "restaurant": "Restaurant",
+      "basket": "Basket"
+    }
+  }
+}

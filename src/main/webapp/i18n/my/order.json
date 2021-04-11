@@ -1,0 +1,24 @@
+{
+  "coopcycleApp": {
+    "order": {
+      "home": {
+        "title": "Orders",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Order အသစ်ထည့်မည်",
+        "createOrEditLabel": "Order အသစ်ထည့်ခြင်း (သို့) ပြုပြင်ခြင်း",
+        "notFound": "No Orders found"
+      },
+      "created": "{{ param }} အိုင်ဒီဖြင့် Order အသစ်တစ်ခုအား ထည့်ပြီးပါပြီ။",
+      "updated": "{{ param }} အိုင်ဒီဖြင့် Order တစ်ခုအား ပြုပြင်ပြီးပါပြီ။",
+      "deleted": "{{ param }} အိုင်ဒီဖြင့် Order တစ်ခုအား ဖျက်ပြီးပါပြီ။",
+      "delete": {
+        "question": "Order {{ id }} အား ဖျက်ပါမည်။ သေချာပါသလား?"
+      },
+      "detail": {
+        "title": "Order"
+      },
+      "id": "ID",
+      "orderId": "Order Id"
+    }
+  }
+}

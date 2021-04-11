@@ -1,0 +1,28 @@
+{
+  "coopcycleApp": {
+    "basket": {
+      "home": {
+        "title": "Baskets",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Създайте нов Basket",
+        "createOrEditLabel": "Създайте или редактирайте Basket",
+        "notFound": "Baskets не са намерени"
+      },
+      "created": "Създаден е нов Basket с идентификатор {{ param }}",
+      "updated": "Basket с идентификатор {{ param }} e oбновен",
+      "deleted": "Basket с идентификатор {{ param }} е изтрит",
+      "delete": {
+        "question": "Наистина ли искате да изтриете Basket {{ id }}?"
+      },
+      "detail": {
+        "title": "Basket"
+      },
+      "id": "ID",
+      "basketId": "Basket Id",
+      "basketState": "Basket State",
+      "user": "User",
+      "course": "Course",
+      "customer": "Customer"
+    }
+  }
+}

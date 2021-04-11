@@ -1,0 +1,24 @@
+{
+  "coopcycleApp": {
+    "order": {
+      "home": {
+        "title": "Orders",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Ստեղծել նոր Order",
+        "createOrEditLabel": "Ստեղծել կամ փոփոխել Order",
+        "notFound": "No Orders found"
+      },
+      "created": "Նոր Order ստեղծված է {{ param }} նունացուցիչով",
+      "updated": "Order թարմացվաց է {{ param }} նունացուցիչով",
+      "deleted": "Order հեռացված է {{ param }}  նունացուցիչով",
+      "delete": {
+        "question": "Դուք վստահ ե՞ք, որ ցանկանում եք հեռացնել Order {{ id }}?"
+      },
+      "detail": {
+        "title": "Order"
+      },
+      "id": "ID",
+      "orderId": "Order Id"
+    }
+  }
+}

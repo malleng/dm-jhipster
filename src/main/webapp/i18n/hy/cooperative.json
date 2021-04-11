@@ -1,0 +1,27 @@
+{
+  "coopcycleApp": {
+    "cooperative": {
+      "home": {
+        "title": "Cooperatives",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Ստեղծել նոր Cooperative",
+        "createOrEditLabel": "Ստեղծել կամ փոփոխել Cooperative",
+        "notFound": "No Cooperatives found"
+      },
+      "created": "Նոր Cooperative ստեղծված է {{ param }} նունացուցիչով",
+      "updated": "Cooperative թարմացվաց է {{ param }} նունացուցիչով",
+      "deleted": "Cooperative հեռացված է {{ param }}  նունացուցիչով",
+      "delete": {
+        "question": "Դուք վստահ ե՞ք, որ ցանկանում եք հեռացնել Cooperative {{ id }}?"
+      },
+      "detail": {
+        "title": "Cooperative"
+      },
+      "id": "ID",
+      "cooperativeId": "Cooperative Id",
+      "name": "Name",
+      "area": "Area",
+      "restaurant": "Restaurant"
+    }
+  }
+}

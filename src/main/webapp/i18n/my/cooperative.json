@@ -1,0 +1,27 @@
+{
+  "coopcycleApp": {
+    "cooperative": {
+      "home": {
+        "title": "Cooperatives",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Cooperative အသစ်ထည့်မည်",
+        "createOrEditLabel": "Cooperative အသစ်ထည့်ခြင်း (သို့) ပြုပြင်ခြင်း",
+        "notFound": "No Cooperatives found"
+      },
+      "created": "{{ param }} အိုင်ဒီဖြင့် Cooperative အသစ်တစ်ခုအား ထည့်ပြီးပါပြီ။",
+      "updated": "{{ param }} အိုင်ဒီဖြင့် Cooperative တစ်ခုအား ပြုပြင်ပြီးပါပြီ။",
+      "deleted": "{{ param }} အိုင်ဒီဖြင့် Cooperative တစ်ခုအား ဖျက်ပြီးပါပြီ။",
+      "delete": {
+        "question": "Cooperative {{ id }} အား ဖျက်ပါမည်။ သေချာပါသလား?"
+      },
+      "detail": {
+        "title": "Cooperative"
+      },
+      "id": "ID",
+      "cooperativeId": "Cooperative Id",
+      "name": "Name",
+      "area": "Area",
+      "restaurant": "Restaurant"
+    }
+  }
+}

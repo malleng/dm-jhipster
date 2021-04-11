@@ -1,0 +1,24 @@
+{
+  "coopcycleApp": {
+    "payment": {
+      "home": {
+        "title": "Payments",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Създайте нов Payment",
+        "createOrEditLabel": "Създайте или редактирайте Payment",
+        "notFound": "Payments не са намерени"
+      },
+      "created": "Създаден е нов Payment с идентификатор {{ param }}",
+      "updated": "Payment с идентификатор {{ param }} e oбновен",
+      "deleted": "Payment с идентификатор {{ param }} е изтрит",
+      "delete": {
+        "question": "Наистина ли искате да изтриете Payment {{ id }}?"
+      },
+      "detail": {
+        "title": "Payment"
+      },
+      "id": "ID",
+      "paymentMethod": "Payment Method"
+    }
+  }
+}

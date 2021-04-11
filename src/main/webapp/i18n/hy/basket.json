@@ -1,0 +1,28 @@
+{
+  "coopcycleApp": {
+    "basket": {
+      "home": {
+        "title": "Baskets",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Ստեղծել նոր Basket",
+        "createOrEditLabel": "Ստեղծել կամ փոփոխել Basket",
+        "notFound": "No Baskets found"
+      },
+      "created": "Նոր Basket ստեղծված է {{ param }} նունացուցիչով",
+      "updated": "Basket թարմացվաց է {{ param }} նունացուցիչով",
+      "deleted": "Basket հեռացված է {{ param }}  նունացուցիչով",
+      "delete": {
+        "question": "Դուք վստահ ե՞ք, որ ցանկանում եք հեռացնել Basket {{ id }}?"
+      },
+      "detail": {
+        "title": "Basket"
+      },
+      "id": "ID",
+      "basketId": "Basket Id",
+      "basketState": "Basket State",
+      "user": "User",
+      "course": "Course",
+      "customer": "Customer"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "coopcycleApp": {
+    "restaurant": {
+      "home": {
+        "title": "Restaurants",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "创建新 Restaurant",
+        "createOrEditLabel": "创建或编辑 Restaurant",
+        "notFound": "No Restaurants found"
+      },
+      "created": "Restaurant {{ param }} 创建成功",
+      "updated": "Restaurant {{ param }} 更新成功",
+      "deleted": "Restaurant {{ param }} 删除成功",
+      "delete": {
+        "question": "你确定要删除 Restaurant {{ id }} 吗？"
+      },
+      "detail": {
+        "title": "Restaurant"
+      },
+      "id": "ID",
+      "restaurantId": "Restaurant Id",
+      "name": "Name",
+      "description": "Description",
+      "cooperative": "Cooperative"
+    }
+  }
+}

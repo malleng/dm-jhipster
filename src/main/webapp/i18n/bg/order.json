@@ -1,0 +1,24 @@
+{
+  "coopcycleApp": {
+    "order": {
+      "home": {
+        "title": "Orders",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Създайте нов Order",
+        "createOrEditLabel": "Създайте или редактирайте Order",
+        "notFound": "Orders не са намерени"
+      },
+      "created": "Създаден е нов Order с идентификатор {{ param }}",
+      "updated": "Order с идентификатор {{ param }} e oбновен",
+      "deleted": "Order с идентификатор {{ param }} е изтрит",
+      "delete": {
+        "question": "Наистина ли искате да изтриете Order {{ id }}?"
+      },
+      "detail": {
+        "title": "Order"
+      },
+      "id": "ID",
+      "orderId": "Order Id"
+    }
+  }
+}

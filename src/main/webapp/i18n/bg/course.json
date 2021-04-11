@@ -1,0 +1,27 @@
+{
+  "coopcycleApp": {
+    "course": {
+      "home": {
+        "title": "Courses",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Създайте нов Course",
+        "createOrEditLabel": "Създайте или редактирайте Course",
+        "notFound": "Courses не са намерени"
+      },
+      "created": "Създаден е нов Course с идентификатор {{ param }}",
+      "updated": "Course с идентификатор {{ param }} e oбновен",
+      "deleted": "Course с идентификатор {{ param }} е изтрит",
+      "delete": {
+        "question": "Наистина ли искате да изтриете Course {{ id }}?"
+      },
+      "detail": {
+        "title": "Course"
+      },
+      "id": "ID",
+      "state": "State",
+      "deliveryTime": "Delivery Time",
+      "restaurant": "Restaurant",
+      "basket": "Basket"
+    }
+  }
+}

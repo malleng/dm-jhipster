@@ -1,0 +1,49 @@
+{
+  "name": "Basket",
+  "fields": [
+    {
+      "fieldName": "basketId",
+      "fieldType": "Long",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "fieldName": "basketState",
+      "fieldType": "BasketState",
+      "fieldValues": "NOTFINISHED,VALIDATED,PAID",
+      "fieldValidateRules": ["required"]
+    }
+  ],
+  "relationships": [
+    {
+      "relationshipType": "one-to-one",
+      "otherEntityName": "user",
+      "otherEntityRelationshipName": "basket",
+      "relationshipName": "user",
+      "ownerSide": true
+    },
+    {
+      "relationshipType": "one-to-one",
+      "otherEntityName": "course",
+      "otherEntityRelationshipName": "basket",
+      "relationshipName": "course",
+      "ownerSide": true
+    },
+    {
+      "relationshipType": "many-to-one",
+      "otherEntityName": "user",
+      "otherEntityRelationshipName": "basket",
+      "relationshipName": "customer"
+    }
+  ],
+  "javadoc": "The Basket entity.",
+  "entityTableName": "basket",
+  "dto": "no",
+  "pagination": "no",
+  "service": "no",
+  "jpaMetamodelFiltering": false,
+  "fluentMethods": true,
+  "readOnly": false,
+  "embedded": false,
+  "applications": "*",
+  "changelogDate": "20210411162408"
+}

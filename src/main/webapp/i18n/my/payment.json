@@ -1,0 +1,24 @@
+{
+  "coopcycleApp": {
+    "payment": {
+      "home": {
+        "title": "Payments",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Payment အသစ်ထည့်မည်",
+        "createOrEditLabel": "Payment အသစ်ထည့်ခြင်း (သို့) ပြုပြင်ခြင်း",
+        "notFound": "No Payments found"
+      },
+      "created": "{{ param }} အိုင်ဒီဖြင့် Payment အသစ်တစ်ခုအား ထည့်ပြီးပါပြီ။",
+      "updated": "{{ param }} အိုင်ဒီဖြင့် Payment တစ်ခုအား ပြုပြင်ပြီးပါပြီ။",
+      "deleted": "{{ param }} အိုင်ဒီဖြင့် Payment တစ်ခုအား ဖျက်ပြီးပါပြီ။",
+      "delete": {
+        "question": "Payment {{ id }} အား ဖျက်ပါမည်။ သေချာပါသလား?"
+      },
+      "detail": {
+        "title": "Payment"
+      },
+      "id": "ID",
+      "paymentMethod": "Payment Method"
+    }
+  }
+}

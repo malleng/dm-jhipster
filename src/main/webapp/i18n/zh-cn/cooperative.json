@@ -1,0 +1,27 @@
+{
+  "coopcycleApp": {
+    "cooperative": {
+      "home": {
+        "title": "Cooperatives",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "创建新 Cooperative",
+        "createOrEditLabel": "创建或编辑 Cooperative",
+        "notFound": "No Cooperatives found"
+      },
+      "created": "Cooperative {{ param }} 创建成功",
+      "updated": "Cooperative {{ param }} 更新成功",
+      "deleted": "Cooperative {{ param }} 删除成功",
+      "delete": {
+        "question": "你确定要删除 Cooperative {{ id }} 吗？"
+      },
+      "detail": {
+        "title": "Cooperative"
+      },
+      "id": "ID",
+      "cooperativeId": "Cooperative Id",
+      "name": "Name",
+      "area": "Area",
+      "restaurant": "Restaurant"
+    }
+  }
+}

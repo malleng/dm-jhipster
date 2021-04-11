@@ -1,0 +1,42 @@
+{
+  "name": "Course",
+  "fields": [
+    {
+      "fieldName": "state",
+      "fieldType": "CourseState",
+      "fieldValues": "COMPLETED,PENDING,CANCELLED",
+      "fieldValidateRules": ["required"]
+    },
+    {
+      "fieldName": "deliveryTime",
+      "fieldType": "Instant",
+      "fieldValidateRules": ["required"]
+    }
+  ],
+  "relationships": [
+    {
+      "relationshipType": "many-to-one",
+      "otherEntityName": "restaurant",
+      "otherEntityRelationshipName": "course",
+      "relationshipName": "restaurant"
+    },
+    {
+      "relationshipType": "one-to-one",
+      "otherEntityName": "basket",
+      "otherEntityRelationshipName": "course",
+      "relationshipName": "basket",
+      "ownerSide": false
+    }
+  ],
+  "javadoc": "The Course entity.",
+  "entityTableName": "course",
+  "dto": "no",
+  "pagination": "no",
+  "service": "no",
+  "jpaMetamodelFiltering": false,
+  "fluentMethods": true,
+  "readOnly": false,
+  "embedded": false,
+  "applications": "*",
+  "changelogDate": "20210411162411"
+}

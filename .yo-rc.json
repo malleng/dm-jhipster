@@ -41,6 +41,8 @@
     "jwtSecretKey": "OGZkNTYwMWU3MjIwYmNiMzVjMWMwNGVjOWM3MTg3YmJjYzFhZDU3ODdlZTYxYzRjMjk4NjUyZjZhOTVhMDJkMjk4Y2FjZDNjZjIxZGJiMTU4OTkxOWUyMjA2ZDA3NTE2MWM4MmNhNjY1OGI1MTY0NTcyYzFmNDAzYzhmMmZhY2U=",
     "clientPackageManager": "npm",
     "clientThemeVariant": "",
-    "languages": ["fr", "hy", "bg", "zh-cn", "en", "my", "ru"]
+    "languages": ["fr", "hy", "bg", "zh-cn", "en", "my", "ru"],
+    "entities": ["Restaurant", "Cooperative", "Basket", "Product", "Payment", "Course", "Order"],
+    "lastLiquibaseTimestamp": 1618158252000
   }
 }

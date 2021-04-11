@@ -1,0 +1,27 @@
+{
+  "coopcycleApp": {
+    "course": {
+      "home": {
+        "title": "Courses",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "创建新 Course",
+        "createOrEditLabel": "创建或编辑 Course",
+        "notFound": "No Courses found"
+      },
+      "created": "Course {{ param }} 创建成功",
+      "updated": "Course {{ param }} 更新成功",
+      "deleted": "Course {{ param }} 删除成功",
+      "delete": {
+        "question": "你确定要删除 Course {{ id }} 吗？"
+      },
+      "detail": {
+        "title": "Course"
+      },
+      "id": "ID",
+      "state": "State",
+      "deliveryTime": "Delivery Time",
+      "restaurant": "Restaurant",
+      "basket": "Basket"
+    }
+  }
+}

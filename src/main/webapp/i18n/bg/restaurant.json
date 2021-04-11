@@ -1,0 +1,27 @@
+{
+  "coopcycleApp": {
+    "restaurant": {
+      "home": {
+        "title": "Restaurants",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Създайте нов Restaurant",
+        "createOrEditLabel": "Създайте или редактирайте Restaurant",
+        "notFound": "Restaurants не са намерени"
+      },
+      "created": "Създаден е нов Restaurant с идентификатор {{ param }}",
+      "updated": "Restaurant с идентификатор {{ param }} e oбновен",
+      "deleted": "Restaurant с идентификатор {{ param }} е изтрит",
+      "delete": {
+        "question": "Наистина ли искате да изтриете Restaurant {{ id }}?"
+      },
+      "detail": {
+        "title": "Restaurant"
+      },
+      "id": "ID",
+      "restaurantId": "Restaurant Id",
+      "name": "Name",
+      "description": "Description",
+      "cooperative": "Cooperative"
+    }
+  }
+}

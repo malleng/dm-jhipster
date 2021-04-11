@@ -1,0 +1,28 @@
+{
+  "coopcycleApp": {
+    "product": {
+      "home": {
+        "title": "Products",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Product အသစ်ထည့်မည်",
+        "createOrEditLabel": "Product အသစ်ထည့်ခြင်း (သို့) ပြုပြင်ခြင်း",
+        "notFound": "No Products found"
+      },
+      "created": "{{ param }} အိုင်ဒီဖြင့် Product အသစ်တစ်ခုအား ထည့်ပြီးပါပြီ။",
+      "updated": "{{ param }} အိုင်ဒီဖြင့် Product တစ်ခုအား ပြုပြင်ပြီးပါပြီ။",
+      "deleted": "{{ param }} အိုင်ဒီဖြင့် Product တစ်ခုအား ဖျက်ပြီးပါပြီ။",
+      "delete": {
+        "question": "Product {{ id }} အား ဖျက်ပါမည်။ သေချာပါသလား?"
+      },
+      "detail": {
+        "title": "Product"
+      },
+      "id": "ID",
+      "price": "Price",
+      "disponibility": "Disponibility",
+      "description": "Description",
+      "basket": "Basket",
+      "restaurant": "Restaurant"
+    }
+  }
+}
